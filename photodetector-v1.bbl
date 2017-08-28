@@ -1,0 +1,460 @@
+\begin{thebibliography}{36}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Wang et~al.}(2012)\citenamefont{Wang, Kalantar-Zadeh,
+  Kis, Coleman, and Strano}}]{wang2012electronics}
+\bibinfo{author}{\bibfnamefont{Q.~H.} \bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Kalantar-Zadeh}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Kis}},
+  \bibinfo{author}{\bibfnamefont{J.~N.} \bibnamefont{Coleman}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.~S.}
+  \bibnamefont{Strano}}, \bibinfo{journal}{Nature Nanotechnology}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{699} (\bibinfo{year}{2012}).
+
+\bibitem[{\citenamefont{Li et~al.}(2014)\citenamefont{Li, Lee, Choi, Qu, Liu,
+  Ra, and Yoo}}]{Li2015}
+\bibinfo{author}{\bibfnamefont{H.-M.} \bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{D.-Y.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{M.~S.} \bibnamefont{Choi}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Qu}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Liu}},
+  \bibinfo{author}{\bibfnamefont{C.-H.} \bibnamefont{Ra}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.~J.} \bibnamefont{Yoo}},
+  \bibinfo{journal}{Scientific reports} \textbf{\bibinfo{volume}{4}}
+  (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Miao et~al.}(2015)\citenamefont{Miao, Hu, Jing, Luo,
+  Liao, Pan, Wu, Cheng, Chen, and Lu}}]{Miao2015}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Miao}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Hu}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Jing}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Luo}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Liao}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Pan}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Wu}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Cheng}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Chen}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Lu}},
+  \bibinfo{journal}{Small} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{2392}
+  (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Qiu and Hu}(2015)}]{Qiu2014}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Qiu}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Hu}},
+  \bibinfo{journal}{Science China Physics, Mechanics \& Astronomy}
+  \textbf{\bibinfo{volume}{58}}, \bibinfo{pages}{1} (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Radisavljevic and Kis}(2013)}]{Radisavljevic2013}
+\bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Radisavljevic}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Kis}},
+  \bibinfo{journal}{Nature Materials} \textbf{\bibinfo{volume}{12}},
+  \bibinfo{pages}{815} (\bibinfo{year}{2013}).
+
+\bibitem[{\citenamefont{Huang et~al.}(2013)\citenamefont{Huang, Pu, Hsu, Chiu,
+  Juang, Chang, Chang, Iwasa, Takenobu, and Li}}]{huang2013large}
+\bibinfo{author}{\bibfnamefont{J.-K.} \bibnamefont{Huang}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Pu}},
+  \bibinfo{author}{\bibfnamefont{C.-L.} \bibnamefont{Hsu}},
+  \bibinfo{author}{\bibfnamefont{M.-H.} \bibnamefont{Chiu}},
+  \bibinfo{author}{\bibfnamefont{Z.-Y.} \bibnamefont{Juang}},
+  \bibinfo{author}{\bibfnamefont{Y.-H.} \bibnamefont{Chang}},
+  \bibinfo{author}{\bibfnamefont{W.-H.} \bibnamefont{Chang}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Iwasa}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Takenobu}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.-J.} \bibnamefont{Li}},
+  \bibinfo{journal}{ACS Nano} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{923} (\bibinfo{year}{2013}).
+
+\bibitem[{\citenamefont{Mak et~al.}(2010)\citenamefont{Mak, Lee, Hone, Shan,
+  and Heinz}}]{Mak2010a}
+\bibinfo{author}{\bibfnamefont{K.~F.} \bibnamefont{Mak}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Hone}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.~F.} \bibnamefont{Heinz}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{105}},
+  \bibinfo{pages}{136805} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Qiu et~al.}(2012)\citenamefont{Qiu, 邱浩, Pan,
+  潘力佳, Yao, 姚宗妮, Li, 李俊杰, Shi, 施毅
+  et~al.}}]{qiu2012electrical}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Qiu}},
+  \bibinfo{author}{\bibnamefont{邱浩}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Pan}},
+  \bibinfo{author}{\bibnamefont{潘力佳}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Yao}},
+  \bibinfo{author}{\bibnamefont{姚宗妮}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibnamefont{李俊杰}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Shi}},
+  \bibinfo{author}{\bibnamefont{施毅}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{100}},
+  \bibinfo{pages}{123104} (\bibinfo{year}{2012}).
+
+\bibitem[{\citenamefont{Lopez-Sanchez et~al.}(2013)\citenamefont{Lopez-Sanchez,
+  Lembke, Kayci, Radenovic, and Kis}}]{LopezSanchez2013}
+\bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Lopez-Sanchez}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Lembke}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kayci}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Radenovic}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Kis}},
+  \bibinfo{journal}{Nature Nanotechnology} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{497} (\bibinfo{year}{2013}).
+
+\bibitem[{\citenamefont{Chen et~al.}(2015)\citenamefont{Chen, Qiao, Lin, {Man
+  Luk}, Liu, Xu, Song, Xue, Li, Yuan et~al.}}]{Chen2015}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Qiao}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Lin}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Man Luk}}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Liu}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Xu}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Song}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Xue}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Yuan}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{Sci. Rep.} \textbf{\bibinfo{volume}{5}}
+  (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Qin et~al.}(2016)\citenamefont{Qin, Gao, Qiao, Xiao,
+  and Jia}}]{qin2016atomic}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Qin}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Gao}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Qiao}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Xiao}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Jia}},
+  \bibinfo{journal}{Advanced Optical Materials}  (\bibinfo{year}{2016}).
+
+\bibitem[{\citenamefont{Wang et~al.}(2015)\citenamefont{Wang, Wang, Wang, Hu,
+  Zhou, Guo, Huang, Sun, Shen, Lin et~al.}}]{Wang2015}
+\bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Hu}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Zhou}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Guo}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Huang}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Sun}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Shen}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Lin}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{Advanced Materials} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{6575} (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Yore et~al.}(2017)\citenamefont{Yore, Smithe, Jha, Ray,
+  Pop, and Newaz}}]{yore2017large}
+\bibinfo{author}{\bibfnamefont{A.~E.} \bibnamefont{Yore}},
+  \bibinfo{author}{\bibfnamefont{K.~K.} \bibnamefont{Smithe}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Jha}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Ray}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Pop}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Newaz}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{111}},
+  \bibinfo{pages}{043110} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Yin et~al.}(2011)\citenamefont{Yin, Li, Li, Jiang, Shi,
+  Sun, Lu, Zhang, Chen, and Zhang}}]{Yin2012}
+\bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Yin}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Jiang}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Shi}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Sun}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Lu}},
+  \bibinfo{author}{\bibfnamefont{Q.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Chen}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Zhang}},
+  \bibinfo{journal}{ACS Nano} \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{74}
+  (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Kufer and Konstantatos}(2015)}]{Kufer2015}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Kufer}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Konstantatos}},
+  \bibinfo{journal}{Nano Letters} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{7307} (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Wang et~al.}(2017)\citenamefont{Wang, Medina, Hong, Wu,
+  Qu, Manikandan, Su, Lee, Huang, Wang et~al.}}]{wang2017thermally}
+\bibinfo{author}{\bibfnamefont{S.-W.} \bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Medina}},
+  \bibinfo{author}{\bibfnamefont{K.-B.} \bibnamefont{Hong}},
+  \bibinfo{author}{\bibfnamefont{C.-C.} \bibnamefont{Wu}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Qu}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Manikandan}},
+  \bibinfo{author}{\bibfnamefont{T.-Y.} \bibnamefont{Su}},
+  \bibinfo{author}{\bibfnamefont{P.-T.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{Z.-Q.} \bibnamefont{Huang}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Wang}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{ACS Nano}  (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Yoo et~al.}(2017)\citenamefont{Yoo, Hong, Heo, and
+  Kim}}]{Yoo2017}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Yoo}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Hong}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Heo}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Kim}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{110}},
+  \bibinfo{pages}{053112} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{O'Brien et~al.}(2014)\citenamefont{O'Brien, McEvoy,
+  Hallam, Kim, Berner, Hanlon, Lee, Coleman, and Duesberg}}]{Maria2014}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{O'Brien}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{McEvoy}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Hallam}},
+  \bibinfo{author}{\bibfnamefont{H.-Y.} \bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{N.~C.} \bibnamefont{Berner}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hanlon}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{J.~N.} \bibnamefont{Coleman}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{G.~S.}
+  \bibnamefont{Duesberg}}, \bibinfo{journal}{Scientific Reports}
+  \textbf{\bibinfo{volume}{4}} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Bie et~al.}(2011)\citenamefont{Bie, Zhou, Liao, Yan,
+  Liu, Zhao, Kumar, Wu, Duesberg, Cross et~al.}}]{bie2011site}
+\bibinfo{author}{\bibfnamefont{Y.-Q.} \bibnamefont{Bie}},
+  \bibinfo{author}{\bibfnamefont{Y.-B.} \bibnamefont{Zhou}},
+  \bibinfo{author}{\bibfnamefont{Z.-M.} \bibnamefont{Liao}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Yan}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Liu}},
+  \bibinfo{author}{\bibfnamefont{Q.}~\bibnamefont{Zhao}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Kumar}},
+  \bibinfo{author}{\bibfnamefont{H.-C.} \bibnamefont{Wu}},
+  \bibinfo{author}{\bibfnamefont{G.~S.} \bibnamefont{Duesberg}},
+  \bibinfo{author}{\bibfnamefont{G.~L.} \bibnamefont{Cross}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Advanced Materials}
+  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{3938} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Giannazzo et~al.}(2017)\citenamefont{Giannazzo,
+  Fisichella, Greco, Di~Franco, Deretzis, La~Magna, Bongiorno, Nicotra,
+  Spinella, Scopelliti et~al.}}]{giannazzo2017ambipolar}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Giannazzo}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Fisichella}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Greco}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Di~Franco}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Deretzis}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{La~Magna}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Bongiorno}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Nicotra}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Spinella}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Scopelliti}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{ACS Applied Materials \& Interfaces}
+  (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Guo et~al.}(2017)\citenamefont{Guo, Yang, Zheng, and
+  Jiang}}]{guo2017observation}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Guo}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Yang}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Zheng}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Jiang}},
+  \bibinfo{journal}{Physica E: Low-dimensional Systems and Nanostructures}
+  \textbf{\bibinfo{volume}{87}}, \bibinfo{pages}{150} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Chuang et~al.}(2014)\citenamefont{Chuang, Battaglia,
+  Azcatl, McDonnell, Kang, Yin, Tosun, Kapadia, Fang, Wallace
+  et~al.}}]{chuang2014mos2}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chuang}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Battaglia}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Azcatl}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{McDonnell}},
+  \bibinfo{author}{\bibfnamefont{J.~S.} \bibnamefont{Kang}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Yin}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Tosun}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Kapadia}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Fang}},
+  \bibinfo{author}{\bibfnamefont{R.~M.} \bibnamefont{Wallace}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Nano Letters}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{1337} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{McDonnell et~al.}(2014)\citenamefont{McDonnell, Azcatl,
+  Addou, Gong, Battaglia, Chuang, Cho, Javey, and Wallace}}]{mcdonnell2014hole}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{McDonnell}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Azcatl}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Addou}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Gong}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Battaglia}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chuang}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Cho}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Javey}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.~M.} \bibnamefont{Wallace}},
+  \bibinfo{journal}{ACS Nano} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{6265} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Jadwiszczak et~al.}(2017)\citenamefont{Jadwiszczak,
+  O'Callaghan, Zhou, Fox, Weitz, Keane, O'Reilly, Downing, Shmeliov, Maguire
+  et~al.}}]{jadwiszczak2017oxide}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Jadwiszczak}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{O'Callaghan}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Zhou}},
+  \bibinfo{author}{\bibfnamefont{D.~S.} \bibnamefont{Fox}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Weitz}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Keane}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{O'Reilly}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Downing}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Shmeliov}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Maguire}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{arXiv preprint arXiv:1706.08573}
+  (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Yu et~al.}(2014)\citenamefont{Yu, Lee, Jang, Kang,
+  Jeon, Lee, Lee, Kim, Hwang, Lee et~al.}}]{Yu2014}
+\bibinfo{author}{\bibfnamefont{S.~H.} \bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{S.~K.} \bibnamefont{Jang}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kang}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Jeon}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{J.~Y.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Hwang}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Lee}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{ACS Nano} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{8285} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Renteria et~al.}(2014)\citenamefont{Renteria, Samnakay,
+  Rumyantsev, Jiang, Goli, Shur, and Balandin}}]{renteria2014low}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Renteria}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Samnakay}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Rumyantsev}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Jiang}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Goli}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Shur}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Balandin}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{104}},
+  \bibinfo{pages}{153104} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Kim et~al.}(2017)\citenamefont{Kim, Song, Cho, Amani,
+  Ahn, Kim, Pak, Chung, Javey, and Lee}}]{kim2017analysis}
+\bibinfo{author}{\bibfnamefont{T.-Y.} \bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Song}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Cho}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Amani}},
+  \bibinfo{author}{\bibfnamefont{G.~H.} \bibnamefont{Ahn}},
+  \bibinfo{author}{\bibfnamefont{J.-K.} \bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Pak}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chung}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Javey}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Lee}},
+  \bibinfo{journal}{Nanotechnology} \textbf{\bibinfo{volume}{28}},
+  \bibinfo{pages}{145702} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Zhu et~al.}(2014)\citenamefont{Zhu, Low, Lee, Wang,
+  Farmer, Kong, Xia, and Avouris}}]{zhu2014electronic}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Zhu}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Low}},
+  \bibinfo{author}{\bibfnamefont{Y.-H.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{D.~B.} \bibnamefont{Farmer}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kong}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Xia}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Avouris}},
+  \bibinfo{journal}{Nature Communications} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{3087} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Yuan et~al.}(2017)\citenamefont{Yuan, Shen, Li, Shao,
+  Huang, Chen, Wang, Ding, Chin, and Li}}]{yuan2017pbti}
+\bibinfo{author}{\bibfnamefont{H.-W.} \bibnamefont{Yuan}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Shen}},
+  \bibinfo{author}{\bibfnamefont{J.-J.} \bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shao}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Huang}},
+  \bibinfo{author}{\bibfnamefont{Y.-F.} \bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Ding}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Chin}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.-F.} \bibnamefont{Li}},
+  \bibinfo{journal}{IEEE Electron Device Letters}
+  \textbf{\bibinfo{volume}{38}}, \bibinfo{pages}{677} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Yu et~al.}(2016)\citenamefont{Yu, Ong, Pan, Cui, Xin,
+  Shi, Wang, Wu, Chen, Zhang et~al.}}]{yu2016realization}
+\bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{Z.-Y.} \bibnamefont{Ong}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Pan}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Cui}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Xin}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Shi}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Wu}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{Y.-W.} \bibnamefont{Zhang}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Advanced Materials}
+  \textbf{\bibinfo{volume}{28}}, \bibinfo{pages}{547} (\bibinfo{year}{2016}).
+
+\bibitem[{\citenamefont{Yu et~al.}(2017)\citenamefont{Yu, Ong, Li, Xu, Zhang,
+  Zhang, Shi, and Wang}}]{yu2017analyzing}
+\bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{Z.-Y.} \bibnamefont{Ong}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{J.-B.} \bibnamefont{Xu}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{Y.-W.} \bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Shi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Wang}},
+  \bibinfo{journal}{Advanced Functional Materials}
+  \textbf{\bibinfo{volume}{27}} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Nan et~al.}(2017)\citenamefont{Nan, Wu, Jiang, Zafar,
+  You, and Ni}}]{nan2017improving}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Nan}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Wu}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Jiang}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Zafar}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{You}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Ni}},
+  \bibinfo{journal}{Journal of Physics D: Applied Physics}
+  \textbf{\bibinfo{volume}{50}}, \bibinfo{pages}{154001}
+  (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Tao et~al.}(2015)\citenamefont{Tao, Duan, Wang, Duan,
+  and Wang}}]{tao2015plasma}
+\bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Tao}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Duan}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Duan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Wang}},
+  \bibinfo{journal}{Chemical Communications} \textbf{\bibinfo{volume}{51}},
+  \bibinfo{pages}{7470} (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Wi et~al.}(2014)\citenamefont{Wi, Kim, Chen, Nam, Guo,
+  Meyhofer, and Liang}}]{wi2014enhancement}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Wi}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Nam}},
+  \bibinfo{author}{\bibfnamefont{L.~J.} \bibnamefont{Guo}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Meyhofer}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Liang}},
+  \bibinfo{journal}{ACS Nano} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{5270} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Liang et~al.}(2013)\citenamefont{Liang, Huang,
+  Soklaski, and Yang}}]{Liang2013}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Liang}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Huang}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Soklaski}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Yang}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{103}},
+  \bibinfo{pages}{042106} (\bibinfo{year}{2013}).
+
+\bibitem[{\citenamefont{Kang et~al.}(2014)\citenamefont{Kang, Paudel,
+  Leuenberger, Tetard, and Khondaker}}]{Kang2014}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Kang}},
+  \bibinfo{author}{\bibfnamefont{H.~P.} \bibnamefont{Paudel}},
+  \bibinfo{author}{\bibfnamefont{M.~N.} \bibnamefont{Leuenberger}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Tetard}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~I.} \bibnamefont{Khondaker}},
+  \bibinfo{journal}{J. Phys. Chem. C} \textbf{\bibinfo{volume}{118}}
+  (\bibinfo{year}{2014}).
+
+\end{thebibliography}

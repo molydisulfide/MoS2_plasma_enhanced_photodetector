@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  21 AUG 2017 12:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  11 SEP 2017 15:48
 entering extended mode
 **./photodetector-v1.tex
 (photodetector-v1.tex
@@ -943,24 +943,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--151
  []
 
 [1{C:/Users/Jakub/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Fig_1.png, id=73, 544.9158pt x 516.0078pt>
+<Fig_1.png, id=73, 453.8556pt x 402.0621pt>
 File: Fig_1.png Graphic file (type png)
  <use Fig_1.png>
 Package pdftex.def Info: Fig_1.png used on input line 155.
-(pdftex.def)             Requested size: 227.62204pt x 215.54861pt.
+(pdftex.def)             Requested size: 227.62204pt x 201.65018pt.
 
-<mobility.png, id=79, 562.2606pt x 516.9714pt>
-File: mobility.png Graphic file (type png)
- <use mobility.png>
-Package pdftex.def Info: mobility.png used on input line 164.
-(pdftex.def)             Requested size: 227.62204pt x 209.28549pt.
- [2 <./Fig_1.png> <./mobility.png>] <R_ph.png, id=93, 371.4678pt x 293.1753pt>
+<Fig_2.png, id=78, 513.5988pt x 492.8814pt>
+File: Fig_2.png Graphic file (type png)
+ <use Fig_2.png>
+Package pdftex.def Info: Fig_2.png used on input line 164.
+(pdftex.def)             Requested size: 227.62204pt x 218.44032pt.
+ [2 <./Fig_1.png (PNG copy)> <./Fig_2.png>] <R_ph.png, id=92, 371.4678pt x 293.
+1753pt>
 File: R_ph.png Graphic file (type png)
 
 <use R_ph.png>
 Package pdftex.def Info: R_ph.png used on input line 187.
 (pdftex.def)             Requested size: 227.62204pt x 179.65083pt.
- <Time_response_fig.png, id=101, 298.2342pt x 524.4393pt>
+ <Time_response_fig.png, id=100, 298.2342pt x 524.4393pt>
 File: Time_response_fig.png Graphic file (type png)
 
 <use Time_response_fig.png>
@@ -1107,7 +1108,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--203
  []
 
 [3 <./R_ph.png (PNG copy)> <./Time_response_fig.png (PNG copy)>]
-<Figure_4_photo.png, id=124, 449.7603pt x 550.2156pt>
+<Figure_4_photo.png, id=123, 449.7603pt x 550.2156pt>
 File: Figure_4_photo.png Graphic file (type png)
  <use Figure_4_photo.png>
 Package pdftex.def Info: Figure_4_photo.png used on input line 206.
@@ -1261,10 +1262,10 @@ Package rerunfilecheck Info: File `photodetector-v1.out' has not changed.
 (rerunfilecheck)             Checksum: 89F43EA0AD2D5B61B2CBAEA7F26C9A07;308.
  ) 
 Here is how much of TeX's memory you used:
- 18199 strings out of 493333
- 321036 string characters out of 3139194
+ 18200 strings out of 493333
+ 321031 string characters out of 3139194
  450709 words of memory out of 3000000
- 21501 multiletter control sequences out of 15000+200000
+ 21502 multiletter control sequences out of 15000+200000
  19530 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,38p,10403b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1284,9 +1285,9 @@ ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 ti9.pfb>
-Output written on photodetector-v1.pdf (6 pages, 2901817 bytes).
+Output written on photodetector-v1.pdf (6 pages, 3129105 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
+ 224 PDF objects out of 1000 (max. 8388607)
  53 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

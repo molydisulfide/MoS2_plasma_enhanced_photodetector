@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  11 SEP 2017 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  15 SEP 2017 16:46
 entering extended mode
 **./photodetector-v1.tex
 (photodetector-v1.tex
@@ -954,161 +954,34 @@ File: Fig_2.png Graphic file (type png)
  <use Fig_2.png>
 Package pdftex.def Info: Fig_2.png used on input line 164.
 (pdftex.def)             Requested size: 227.62204pt x 218.44032pt.
- [2 <./Fig_1.png (PNG copy)> <./Fig_2.png>] <R_ph.png, id=92, 371.4678pt x 293.
-1753pt>
-File: R_ph.png Graphic file (type png)
 
-<use R_ph.png>
+<R_ph.png, id=80, 371.4678pt x 293.1753pt>
+File: R_ph.png Graphic file (type png)
+ <use R_ph.png>
 Package pdftex.def Info: R_ph.png used on input line 187.
 (pdftex.def)             Requested size: 227.62204pt x 179.65083pt.
- <Time_response_fig.png, id=100, 298.2342pt x 524.4393pt>
+ [2 <./Fig_1.png (PNG copy)>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 193.
+
+<Time_response_fig.png, id=102, 298.2342pt x 524.4393pt>
 File: Time_response_fig.png Graphic file (type png)
 
 <use Time_response_fig.png>
 Package pdftex.def Info: Time_response_fig.png used on input line 195.
 (pdftex.def)             Requested size: 199.16928pt x 350.25218pt.
 
-Underfull \hbox (badness 1281) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 plasma-treated sam-ple af-ter 2 sec-onds of ex-po-sure.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-[]\OT1/cmr/m/n/10 TEM TEMTEMTEM TEMTEMTE MTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTEM TEMTEMTE MTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTE MTE MTEMTEM TEMTE MTEM
- []
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTE MTEMTEM TEMTEMTEM TEMTEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTE MTEMTEM TEMTE MTEM TEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTEMTEM TEMTEMTE MTE
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTE MTEM TEMTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTEM TEMTEMTE MTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTE MTE MTEMTEM TEMTE MTEM
- []
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTE MTEMTEM TEMTEMTEM TEMTEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTE MTEMTEM TEMTE MTEM TEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTEMTEM TEMTEMTE MTE
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTE MTEM TEMTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTEM TEMTEMTE MTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTE MTE MTEMTEM TEMTE MTEM
- []
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTE MTEMTEM TEMTEMTEM TEMTEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTE MTEMTEM TEMTE MTEM TEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTEMTEM TEMTEMTE MTE
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTE MTEM TEMTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTEM TEMTEMTE MTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTE MTE MTEMTEM TEMTE MTEM
- []
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTE MTEMTEM TEMTEMTEM TEMTEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTE MTEMTEM TEMTE MTEM TEMTE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTEMTEM TEMTEMTE MTE
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 MTEMTEM TEMTE MTEM TEMTE MTEMTEM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-\OT1/cmr/m/n/10 TEMTEMTEM TEMTEMTE MTE MTEMTEM
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 200--203
 
  []
 
-[3 <./R_ph.png (PNG copy)> <./Time_response_fig.png (PNG copy)>]
-<Figure_4_photo.png, id=123, 449.7603pt x 550.2156pt>
+[3 <./Fig_2.png> <./R_ph.png (PNG copy)>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 204.
+
+<Figure_4_photo.png, id=126, 449.7603pt x 550.2156pt>
 File: Figure_4_photo.png Graphic file (type png)
  <use Figure_4_photo.png>
 Package pdftex.def Info: Figure_4_photo.png used on input line 206.
@@ -1208,7 +1081,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--218
 
  []
 
-[4 <./Figure_4_photo.png (PNG copy)>] (photodetector-v1.bbl [5]
+[4 <./Time_response_fig.png (PNG copy)> <./Figure_4_photo.png (PNG copy)>]
+(photodetector-v1.bbl
 Missing character: There is no é in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no ± in font cmr9!
@@ -1248,7 +1122,7 @@ Missing character: There is no ½ in font cmr9!
 Missing character: There is no æ in font cmr9!
 Missing character: There is no ¯ in font cmr9!
 Missing character: There is no … in font cmr9!
-
+ [5]
 Underfull \hbox (badness 1406) in paragraph at lines 188--199
  \OT1/cmr/m/n/9 A. Manikan-dan, T.-Y. Su, P.-T. Lee, Z.-Q. Huang,
  []
@@ -1262,13 +1136,13 @@ Package rerunfilecheck Info: File `photodetector-v1.out' has not changed.
 (rerunfilecheck)             Checksum: 89F43EA0AD2D5B61B2CBAEA7F26C9A07;308.
  ) 
 Here is how much of TeX's memory you used:
- 18200 strings out of 493333
- 321031 string characters out of 3139194
- 450709 words of memory out of 3000000
- 21502 multiletter control sequences out of 15000+200000
+ 18204 strings out of 493333
+ 321114 string characters out of 3139194
+ 439509 words of memory out of 3000000
+ 21505 multiletter control sequences out of 15000+200000
  19530 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,38p,10403b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,38p,10403b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKT
@@ -1285,9 +1159,9 @@ ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 ti9.pfb>
-Output written on photodetector-v1.pdf (6 pages, 3129105 bytes).
+Output written on photodetector-v1.pdf (6 pages, 3954340 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
+ 54 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

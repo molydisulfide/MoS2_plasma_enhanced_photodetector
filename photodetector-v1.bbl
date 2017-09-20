@@ -1,4 +1,4 @@
-\begin{thebibliography}{36}
+\begin{thebibliography}{37}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -321,6 +321,19 @@
   \bibinfo{journal}{ACS Nano} \textbf{\bibinfo{volume}{8}},
   \bibinfo{pages}{8285} (\bibinfo{year}{2014}).
 
+\bibitem[{\citenamefont{Zhu et~al.}(2014)\citenamefont{Zhu, Low, Lee, Wang,
+  Farmer, Kong, Xia, and Avouris}}]{zhu2014electronic}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Zhu}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Low}},
+  \bibinfo{author}{\bibfnamefont{Y.-H.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{D.~B.} \bibnamefont{Farmer}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kong}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Xia}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Avouris}},
+  \bibinfo{journal}{Nature Communications} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{3087} (\bibinfo{year}{2014}).
+
 \bibitem[{\citenamefont{Renteria et~al.}(2014)\citenamefont{Renteria, Samnakay,
   Rumyantsev, Jiang, Goli, Shur, and Balandin}}]{renteria2014low}
 \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Renteria}},
@@ -332,6 +345,21 @@
   \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Balandin}},
   \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{104}},
   \bibinfo{pages}{153104} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Yu et~al.}(2016)\citenamefont{Yu, Ong, Pan, Cui, Xin,
+  Shi, Wang, Wu, Chen, Zhang et~al.}}]{yu2016realization}
+\bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{Z.-Y.} \bibnamefont{Ong}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Pan}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Cui}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Xin}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Shi}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Wu}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{Y.-W.} \bibnamefont{Zhang}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Advanced Materials}
+  \textbf{\bibinfo{volume}{28}}, \bibinfo{pages}{547} (\bibinfo{year}{2016}).
 
 \bibitem[{\citenamefont{Kim et~al.}(2017)\citenamefont{Kim, Song, Cho, Amani,
   Ahn, Kim, Pak, Chung, Javey, and Lee}}]{kim2017analysis}
@@ -348,19 +376,6 @@
   \bibinfo{journal}{Nanotechnology} \textbf{\bibinfo{volume}{28}},
   \bibinfo{pages}{145702} (\bibinfo{year}{2017}).
 
-\bibitem[{\citenamefont{Zhu et~al.}(2014)\citenamefont{Zhu, Low, Lee, Wang,
-  Farmer, Kong, Xia, and Avouris}}]{zhu2014electronic}
-\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Zhu}},
-  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Low}},
-  \bibinfo{author}{\bibfnamefont{Y.-H.} \bibnamefont{Lee}},
-  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Wang}},
-  \bibinfo{author}{\bibfnamefont{D.~B.} \bibnamefont{Farmer}},
-  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kong}},
-  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Xia}}, \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Avouris}},
-  \bibinfo{journal}{Nature Communications} \textbf{\bibinfo{volume}{5}},
-  \bibinfo{pages}{3087} (\bibinfo{year}{2014}).
-
 \bibitem[{\citenamefont{Yuan et~al.}(2017)\citenamefont{Yuan, Shen, Li, Shao,
   Huang, Chen, Wang, Ding, Chin, and Li}}]{yuan2017pbti}
 \bibinfo{author}{\bibfnamefont{H.-W.} \bibnamefont{Yuan}},
@@ -375,21 +390,6 @@
   \bibinfo{author}{\bibfnamefont{M.-F.} \bibnamefont{Li}},
   \bibinfo{journal}{IEEE Electron Device Letters}
   \textbf{\bibinfo{volume}{38}}, \bibinfo{pages}{677} (\bibinfo{year}{2017}).
-
-\bibitem[{\citenamefont{Yu et~al.}(2016)\citenamefont{Yu, Ong, Pan, Cui, Xin,
-  Shi, Wang, Wu, Chen, Zhang et~al.}}]{yu2016realization}
-\bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Yu}},
-  \bibinfo{author}{\bibfnamefont{Z.-Y.} \bibnamefont{Ong}},
-  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Pan}},
-  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Cui}},
-  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Xin}},
-  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Shi}},
-  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Wang}},
-  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Wu}},
-  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Chen}},
-  \bibinfo{author}{\bibfnamefont{Y.-W.} \bibnamefont{Zhang}},
-  \bibnamefont{et~al.}, \bibinfo{journal}{Advanced Materials}
-  \textbf{\bibinfo{volume}{28}}, \bibinfo{pages}{547} (\bibinfo{year}{2016}).
 
 \bibitem[{\citenamefont{Yu et~al.}(2017)\citenamefont{Yu, Ong, Li, Xu, Zhang,
   Zhang, Shi, and Wang}}]{yu2017analyzing}
@@ -425,6 +425,21 @@
   \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Wang}},
   \bibinfo{journal}{Chemical Communications} \textbf{\bibinfo{volume}{51}},
   \bibinfo{pages}{7470} (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Ko et~al.}(2016)\citenamefont{Ko, Jeong, Kim, Lee, Kim,
+  Lee, Ryu, Park, Kim, Lee et~al.}}]{ko2016stack}
+\bibinfo{author}{\bibfnamefont{T.~Y.} \bibnamefont{Ko}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Jeong}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{G.~H.} \bibnamefont{Ryu}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Park}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Lee}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{2D Materials} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{014003} (\bibinfo{year}{2016}).
 
 \bibitem[{\citenamefont{Wi et~al.}(2014)\citenamefont{Wi, Kim, Chen, Nam, Guo,
   Meyhofer, and Liang}}]{wi2014enhancement}

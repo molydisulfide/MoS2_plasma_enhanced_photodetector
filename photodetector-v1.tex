@@ -24,7 +24,7 @@ superscriptaddress,
 %groupedaddress,
 %unsortedaddress,
 %runinaddress,
-%frontmatterverbose, 
+%frontmatterverbose,
 %preprint,
 %showpacs,preprintnumbers,
 %nofootinbib,
@@ -54,13 +54,14 @@ prb,
 % Use [H] when including graphics. Note 'H' instead of 'h'
 \usepackage{float}
 \usepackage{booktabs}
+\usepackage{adjustbox}
 \restylefloat{figure}
 \usepackage{hyperref}
 \usepackage{array}
 \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}% add hypertext capabilities
 %\usepackage[mathlines]{lineno}% Enable numbering of text and display math
 %\linenumbers\relax % Commence numbering lines
-%\usepackage[showframe,%Uncomment any one of the following lines to test 
+%\usepackage[showframe,%Uncomment any one of the following lines to test
 %%scale=0.7, marginratio={1:1, 2:3}, ignoreall,% default settings
 %%text={7in,10in},centering,
 %%margin=1.5in,
@@ -72,60 +73,67 @@ prb,
 
 \preprint{APS/123-QED}
 
-\title{Photoresponsivity enhancement in monolayer MoS$_2$ phototransistors by rapid O$_2$:Ar plasma treatment}% Force line breaks with \\
+\title{Photoresponsivity enhancement in monolayer MoS$_2$ by rapid O$_2$:Ar plasma treatment}% Force line breaks with \\
 
 \author{Jakub Jadwiszczak}
 \affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 
-\author{Gen Li}
-\affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
-\affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 
 \author{Darragh Keane}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{School of Chemistry, Trinity College Dublin, Dublin 2, Ireland}
 
 \author{Conor P. Cullen}
 \affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 
+\author{Gen Li}
+\affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
+\affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
+
+
 \author{\\Jing Jing Wang}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
+
+\author{Pierce Maguire}
+\affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
+\affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 
 \author{Yangbo Zhou}
 \affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{School of Material Science and Engineering, Nanchang University, 999 Xuefu Road, Nanchang, Jiangxi, China, 330031}
 
 \author{Daniel S. Fox}
 \affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 
 \author{\\Georg S. Duesberg}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{School of Chemistry, Trinity College Dublin, Dublin 2, Ireland}
 
 \author{John J. Boland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{School of Chemistry, Trinity College Dublin, Dublin 2, Ireland}
 
 \author{Hongzhou Zhang}
 \email{hozhang@tcd.ie}
 \affiliation{School of Physics, Trinity College Dublin, Dublin 2, Ireland}
-\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland} 
+\affiliation{Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN), Trinity College Dublin, Dublin 2, Ireland}
 \affiliation{Advanced Materials and BioEngineering Research Centre (AMBER), Trinity College Dublin, Dublin 2, Ireland}
 
 
-% Collaboration name, if desired (requires use of superscriptaddress option in \documentclass). 
+% Collaboration name, if desired (requires use of superscriptaddress option in \documentclass).
 % \noaffiliation is required (may also be used with the \author command).
 %\collaboration{}
 %\noaffiliation
@@ -138,11 +146,11 @@ The chemical modification of the surface of MoS$_2$ serves to alter the electric
 
 \maketitle %\maketitle must follow title, authors, abstract and \pacs
 
-% Body of paper goes here. Use proper sectioning commands. 
+% Body of paper goes here. Use proper sectioning commands.
 % References should be done using the \cite, \ref, and \label commands
 
 
-\lettrine[lines=2]{T}wo-dimensional materials have attracted wide research interest due to their intriguing physical properties and potential applications. In addition to graphene, the family of transition-metal dichalcogenides (TMDs) has emerged as the most studied group of 2D materials. The bandgap of TMDs ranges between 1.1-2.1 eV, \cite{wang2012electronics} which makes them good candidates for various applications; including photodetectors, \cite{Li2015, Miao2015, Qiu2014} field effect transistors (FETs), \cite{Radisavljevic2013} and logic devices.\cite{huang2013large} Molybdenum disulfide (MoS$_2$) is a typical layered TMD. The MoS$_2$ crystal is an indirect gap semiconductor with a band gap of 1.2 eV in the bulk, and a direct gap of 1.8 eV in the monolayer limit.\cite{Mak2010a} This allows monolayer MoS$_2$ FETs to achieve high ON/OFF current ratios ranging between 10$^7$-10$^9$ \cite{qiu2012electrical}, while preserving decent carrier mobility. 
+\lettrine[lines=2]{T}wo-dimensional materials have attracted wide research interest due to their intriguing physical properties and potential applications. In addition to graphene, the family of transition-metal dichalcogenides (TMDs) has emerged as the most studied group of 2D materials. The bandgap of TMDs ranges between 1.1-2.1 eV, \cite{wang2012electronics} which makes them good candidates for various applications; including photodetectors, \cite{Li2015, Miao2015, Qiu2014} field effect transistors (FETs), \cite{Radisavljevic2013} and logic devices.\cite{huang2013large} Molybdenum disulfide (MoS$_2$) is a typical layered TMD. The MoS$_2$ crystal is an indirect gap semiconductor with a band gap of 1.2 eV in the bulk, and a direct gap of 1.8 eV in the monolayer limit.\cite{Mak2010a} This allows monolayer MoS$_2$ FETs to achieve high ON/OFF current ratios ranging between 10$^7$-10$^9$ \cite{qiu2012electrical}, while preserving decent carrier mobility.
 Hence, optoelectronic devices fabricated from MoS$_2$ have received notable attention in recent years. \cite{LopezSanchez2013, Chen2015, qin2016atomic} MoS$_2$ phototransistors are easy to fabricate, respond to a wide range of excitation wavelengths,\cite{LopezSanchez2013, Wang2015}, exhibit sub-milisecond DC photoresponses \cite{yore2017large} and their photoresponsivity can be tuned by various methods. These include back-gating,\cite{Yin2012} encapsulation in HfO$_2$ \cite{Kufer2015}, strain engineering \cite{wang2017thermally} and evaporation of MoO$_x$ overlayer.\cite{Yoo2017}\\
 \indent In this work, we demonstrate the enhancement of photoresponsivity of CVD monolayer MoS$_2$ phototransistors by rapid treatment with O$_2$:Ar (1:3) plasma. The photoresponsivity is improved two-fold after only 2 seconds of exposure to the plasma. At the same time, the field effect mobility of the monolayer FET under illumination improves by over one order of magnitude. We find that the improvement of electrical performance is due to the surface presence of MoO$_x$ resulting from chemical conversion of MoS$_2$ by the oxygen-containing plasma. This methodology presents a fast and convenient way to tune the optoelectronic performance of on-chip CVD-grown MoS$_2$. \newline
 \indent Monolayer MoS$_2$ samples were synthesized on SiO$_2$/Si substrates using the CVD microreactor method previously reported \cite{Maria2014}. The flakes were identified by optical microscope and were further characterized using AFM and Raman spectroscopy to confirm the number of layers. Electrodes were fabricated by standard electron beam lithography, using poly(methyl methacrylate) 350K photoresist, baked at 180$^{\circ}$C for 3 minutes after spin coating, and then exposed at a dose of 130 $\mu$C/$\mu$m$^2$ with a 20 keV electron beam. Resist was developed in methyl isobutyl ketone:isopropyl alcohol (1:3) solution for 60 s, followed by an IPA rinse for 25 s and drying using a N$_2$ gun. Ti(10 nm)/Au(40 nm) contacts were deposited using an e-beam evaporation tool, followed by lift-off in acetone for 8 hours at room temperature. Plasma treatment was carried out in a Fischione Instruments 1020 plasma cleaner for 2 seconds, utilising O$_2$:Ar (1:3) gas, at a chamber base pressure of $\sim$ 5 mbar. The electrical characterization was performed in a two-probe configuration on a micromanipulator probe station (Imina miBot) using a source meter unit (Agilent B2912A) in the ambient. The devices were back-gated through the heavily p-doped Si substrate. The wavelengths of the lasers used for FET irradiation were 488 nm and 632 nm. For each wavelength, the power density was tuned at five different levels and pre-measured to ensure no power fluctuation throughout the experiment. The laser was directed through a condenser lens (20 $\times$, NA = 0.4) and the spot size was $\approx$ 1.5 $\mu$m and $\approx$ 1.9 $\mu$m for 488 nm and 632 nm respectively. Transmission electron microscopy (TEM) was carried out in a FEI Titan 80-300 system operated at 300 kV, at a chamber pressure of $4 \cdot 10^{-7}$ mbar. Monolayer samples were transferred onto TEM grids using the PMMA stamp transfer methodology previously described \citep{bie2011site}. Atomic force microscopy was performed at ambient pressure in an Oxford Asylum system using cantilevers calibrated at 140 kHz. Raman and photoluminescence spectra were acquired using a WITec Alpha 300 R confocal Raman microscope with an excitation wavelength of 532 nm. Raman spectra were acquired using a spectral grating with 1800 lines/mm, while a lower resolution grating with 600 lines/mm was used for detecting photoluminescence. A low laser power ($<$ 100 $\mu$W) was used to minimize any laser-induced damage or heating of the sample. \newline
@@ -198,25 +206,51 @@ n-type FET with a field effect mobility of 0.13 cm$^2$ V$^{-1}$ s$^{-1}$ under n
 \end{center}
 
 \indent The temporal response of the monolayer MoS$_2$ phototransistor pre- and post-plasma treatment is charted in Fig. 4(a). The photocurrent is seen to improve two-fold for the tested device when the 632 nm laser irradiation is modulated through 5 sec ON/5 sec OFF cycles at a power of 36 $\mu$W and V$_{ds}$ = 5 V. The post-sensitisation fall ($\tau_{fall}$) and rise ($\tau_{rise}$) times are extracted from single exponential fits in Fig. 4(b) and 4(c) respectively. The time-resolved photoresponses compare favourably with the evaporated MoO$_x$ overlayer report \cite{Yoo2017}, where the rise time at a similar wavelength and much lower irradiation power is 35\% shorter.  \newline
-\indent We go on to characterise the defectivity in the plasma-treated MoS$_2$ sample after 2 seconds of exposure.  The effect of charge traps on carrier transport has been well documented in the case of pristine MoS$_2$ \cite{zhu2014electronic, renteria2014low,yu2016realization,kim2017analysis,yuan2017pbti,yu2017analyzing}, but defect-rich oxygen plasma-treated samples have not been studied in detail to account for the unusual enhanced transport behaviour previously reported \cite{nan2017improving,jadwiszczak2017oxide}. Argon plasma treatment has been shown to increase the areal density of electrochemically active surface sites \cite{tao2015plasma}, hence we expect the basal plane morphology to be severely affected by the chemical reaction with the plasma. \newline
-\indent Figs. 5(a),(b) present TEM images of monolayer MoS$_2$ flakes before and after plasma treatment respectively. Corresponding Fast Fourier Transforms are included as insets. A large change in local contrast on some flake areas can be noted after 2 seconds of exposure to the plasma. This is accompanied by significant lattice amorphisation as evident from the disperse FFT spot intensity for the 2 s image. We interpret these observations as the result of a build up of an amorphous oxide of molybdenum on the surface of the MoS$_2$, as a consequence of a chemical reaction between the flake and the plasma-created species \cite{ko2016stack, nan2017improving,jadwiszczak2017oxide}.     \newline
+\indent We go on to characterise the defectivity in the plasma-treated MoS$_2$ sample after 2 seconds of exposure.  The effect of charge traps on carrier transport has been well documented in the case of pristine MoS$_2$ \cite{zhu2014electronic, renteria2014low,yu2016realization,kim2017analysis,yuan2017pbti,yu2017analyzing}, but defect-rich oxygen plasma-treated samples have not been studied in detail to account for the unusual enhanced transport behaviour reported previously \cite{nan2017improving,jadwiszczak2017oxide}. Argon plasma treatment has been shown to increase the areal density of electrochemically active surface sites \cite{tao2015plasma} and induce a 2H-to-1T polytype transition due to lattice strain originating in the top sulfuric layer \cite{zhu2017argon}. Hence, we expect the basal plane morphology to be severely affected by the chemical reaction with the O$_2$:Ar plasma. \newline
+\indent Figs. 5(a),(b) present TEM images of monolayer MoS$_2$ flakes before and after plasma treatment respectively. Corresponding Fast Fourier Transforms (FFTs) are included as insets. A large change in local contrast on some flake areas can be noted after 2 seconds of exposure to the plasma. This is accompanied by significant lattice amorphisation as evident from the disperse FFT spot intensity for the 2 s image. We interpret these observations as the result of a build up of an amorphous oxide of molybdenum on the surface of the MoS$_2$, as a consequence of a chemical reaction between the flake and the plasma-created species\cite{ko2016stack,nan2017improving,jadwiszczak2017oxide}.     \newline
 
 \begin{center}
 \begin{figure}[!htb]
 \includegraphics[width=80mm]{Figure_4_photo}
-\caption{Characterisation of the plasma-oxidised MoS$_2$ CVD monolayers.}
+\caption{Characterisation of the plasma-oxidised MoS$_2$ CVD monolayers: (a) TEM micrograph of a pristine monolayer of CVD MoS$_2$. Inset shows the FFT. (b) TEM image of the same MoS$_2$ flake after undergoing 2 seconds of plasma treatment. Note the change in crystallinity as indicated by the disperse FFT in the inset. (c) AFM? (d) AFM?}
 \end{figure}
 \end{center}
 
 \indent AFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFMAFM AFM AFM AFM \newline
-\indent RAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANARAMAN RAMAN RAMANA RAMANA \newline
-\indent PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL PL \newline
-\indent The physical process responsible for the reported photoresponsivity improvement in plasma-treated MoS$_2$ has been proposed as the resultant carrier trapping at the now-doped MoS$_2$/metal interface \cite{wi2014enhancement}, and more appropriately in this case, the pristine MoS$_2$/MoO$_x$ interface \cite{Yoo2017}.
-The electron affinity and band gap of monolayer MoS$_2$ are ~ 4.3 eV and 1.2 eV respectively \cite{Liang2013,Mak2010a}. After the rapid plasma treatment, MoO$_x$ is generated in the device as demonstrated in the previous discussion. MoO$_x$ is commonly known as a high work function (6.8 eV) material with a band gap of 3 eV.\cite{Kang2014, Yoo2017} In the presently studied device, plasma-generated oxides and unreacted MoS$_2$ will form an effective medium that spans the FET channel. As the Fermi
-level of MoS$_2$ is higher than that of MoO$_x$, significant band bending will occur at the interface as seen in Fig. 4. After reaching equilibrium, the built-in electric field gradient will be directed from MoS$_2$ to MoO$_x$. Photo-generated holes will become trapped at the material interface inhibiting electron-hole recombination, and thereby enhancing the measured
-photocurrent. Hence, the responsivity of the device to laser irradiation is improved, as any photo-generated electrons in the plasma-treated system are free to move in the channel without direct recombination with holes. \\
+\indent Spectroscopic mapping of the MoS$_2$ samples allows for a closer inspection of the chemical state of the MoS$_2$ surface pre- and post-plasma treatment. Figs. 6(a),(b) show the spatially-resolved Raman maps of the CVD-grown MoS$_2$ corresponding to the in-plane vibrational mode at 385 cm$^{-1}$ (for the out-of-plane mode maps see the Supplementary Information). A drastic change is noticed in the intensity of the obtained signal at this frequency, indicating a large change occurring in the MoS$_2$ lattice which alters the Raman-active modes in the sample. The flake-averaged spectra are presented in Fig. 6(c), demonstrating the quenching effect of plasma treatment on the 1L MoS$_2$ Raman peaks. From the fits (see Supplementary), the monolayer nature of the sample is confirmed with a wavenumber separation of 20.5 cm$^{-1}$ between the A$_{1g}^{'}$ and E$^{'}$ peaks \cite{li2012bulk}. Upon plasma treatment, the intensity of both Raman modes is severely reduced after 2 seconds of exposure, while peak position also shifts and FWHM increases. Both the downshift of the E$^{'}$ peak and upshift of the A$^{'}_{1g}$ peak are consistent with reports on molybdenum oxide formation on MoS$_2$, as is the asymmetric broadening of both peaks \cite{choudhary2016two,ko2016stack, jadwiszczak2017oxide}. \newline
+\indent Photoluminescence maps of the same flake are presented before and after 2 seconds of plasma treatment (Fig. 6(d) and 6(e) respectively). Accompanying spectra averaged across the whole sample are shown in Fig. 6(f). We observe significant quenching of direct excitonic recombination in the direct-gap monolayer samples after plasma treatment introduces the oxide species on the surface. The neutral A exciton peak map at 1.835 eV shown in   
+The change in the key parameters between 0 sec and 2 sec are summarised for both Raman and PL in Table 2. \newline
 
-\indent In conclusion, we have demonstrated that the photoresponsivity of MoS$_2$ monolayer FETs can be enhanced two-fold by the introduction of surface-bound molybdenum oxide. We confirm the presence of MoO$_x$ induced by plasma treatment using TEM, AFM, Raman and PL spectroscopy. The effect of the mobility enhancement and photoresponsivity was also noted to depend on laser power and be more prominent at powers exceeding several $\mu$Watts. Our work can provide insight into heterostructure physics in novel nano-devices in the areas of optoelectronics and 2D layered materials. 
+\begin{center}
+\begin{figure}[!htb]
+\includegraphics[width=80mm]{Fig_5_spectroscopies}
+\caption{Spectroscopic mapping of the plasma-oxidised MoS$_2$ CVD monolayers: Raman maps of a monolayer flake before (a) and after (b) plasma treatment, filtered for the in-plane $E'$ mode at 385 cm$^{-1}$. (c) Raman spectra average from the flake area demonstrating the intensity quenching and peak shifts of the MoS$_2$ modes. PL maps of the same flake before (d) and after (e) treatment tracking the emission corresponding to the direct recombination A exciton. (e) Averaged PL spectra demonstrate the direct recombination quenching in the monolayer MoS$_2$ after plasma exposure.  }
+\end{figure}
+\end{center}
+
+
+\onecolumngrid
+
+\begin{table}
+\centering
+\caption{Summary of spectroscopic fits before and after plasma treatment.}
+\label{my-label}
+\begin{adjustbox}{width=\textwidth}\begin{tabular}{@{}cccccccccc@{}}
+\toprule
+                       & \multicolumn{3}{c}{Raman E$^{'}$ peak} & \multicolumn{3}{c}{Raman A$^{'}_{1g}$ peak} & \multicolumn{3}{c}{PL A exciton} \\ \hline \hline \\
+\multicolumn{1}{c}{Plasma exposure time} &  Position (cm$^{-1}$) & FWHM (cm$^{-1}$) & Amplitude (rel. units) & Position (cm$^{-1}$) & FWHM (cm$^{-1}$) & Amplitude (rel. units) &  Position (cm$^{-1}$) & FWHM (cm$^{-1}$) & Amplitude (rel. units)\\ \hline \\
+\multicolumn{1}{c}{0 seconds} &   0.95   & x & x     & 0.95   & x & x     &       x   &     0.63      &      0.04        \\ \hline \\
+\multicolumn{1}{c}{2 seconds} &     x & x&  13.5    & 0.95   & x & x     &     x    & 13.3          &  0.4             \\ \hline
+\end{tabular}
+\end{adjustbox}
+\end{table}
+
+\twocolumngrid
+
+\indent The physical process responsible for the reported photoresponsivity improvement in plasma-treated MoS$_2$ has been proposed as the resultant carrier trapping at the now-doped MoS$_2$/metal interface \cite{wi2014enhancement}, and more appropriately in this case, the pristine MoS$_2$/MoO$_x$ interface \cite{Yoo2017}.
+The electron affinity and band gap of monolayer MoS$_2$ are ~ 4.3 eV and 1.2 eV respectively \cite{Liang2013,Mak2010a}. After the rapid plasma treatment, MoO$_x$ is generated in the device as demonstrated in the previous discussion. MoO$_3$ is commonly known as a high work function (6.8 eV) material with a band gap of 3 eV.\cite{Kang2014, Yoo2017} In the presently studied device, plasma-generated oxides and unreacted MoS$_2$ will form an effective medium that spans the FET channel. As the Fermi level of MoS$_2$ is higher than that of MoO$_x$, significant band bending will occur at the interface \cite{Yoo2017}. After reaching equilibrium, the built-in electric field gradient will be directed from MoS$_2$ towards the oxide. Photo-generated holes will become trapped at the material interface inhibiting electron-hole recombination, and thereby enhancing the measured
+photocurrent with electrons as majority carriers. Hence, the responsivity of the device to laser irradiation is improved, as any photo-generated electrons in the plasma-treated system are free to move in the channel without direct recombination with holes. \newline
+\indent In conclusion, we have demonstrated that the photoresponsivity of MoS$_2$ monolayer FETs can be enhanced two-fold by the introduction of surface-bound molybdenum oxide. We confirm the presence of MoO$_x$ induced by plasma treatment using TEM, AFM, Raman and PL spectroscopy. The effect of the mobility enhancement and photoresponsivity was also noted to depend on laser power and be more prominent at powers exceeding several $\mu$Watts. Our work can provide insight into heterostructure physics in novel nano-devices in the areas of optoelectronics and 2D layered materials.
 
 %\begin{center}
 %\begin{figure}[!htb]
@@ -236,6 +270,6 @@ We are grateful to members of staff at the Advanced Microscopy Laboratory, CRANN
 
 \bibliographystyle{apsrev}
 \bibliography{my}
- 
+
 \end{document}
 % ****** End of file apssamp.tex ******

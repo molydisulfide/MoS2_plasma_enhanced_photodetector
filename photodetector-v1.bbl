@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{40}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -426,6 +426,22 @@
   \bibinfo{journal}{Chemical Communications} \textbf{\bibinfo{volume}{51}},
   \bibinfo{pages}{7470} (\bibinfo{year}{2015}).
 
+\bibitem[{\citenamefont{Zhu et~al.}(2017)\citenamefont{Zhu, Wang, Yu, Li,
+  Zhang, Meng, Liao, Zhao, Lu, Du et~al.}}]{zhu2017argon}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Zhu}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Meng}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Liao}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Zhao}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Lu}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Du}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{Journal of the American Chemical Society}
+  \textbf{\bibinfo{volume}{139}}, \bibinfo{pages}{10216}
+  (\bibinfo{year}{2017}).
+
 \bibitem[{\citenamefont{Ko et~al.}(2016)\citenamefont{Ko, Jeong, Kim, Lee, Kim,
   Lee, Ryu, Park, Kim, Lee et~al.}}]{ko2016stack}
 \bibinfo{author}{\bibfnamefont{T.~Y.} \bibnamefont{Ko}},
@@ -440,6 +456,30 @@
   \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Lee}}, \bibnamefont{et~al.},
   \bibinfo{journal}{2D Materials} \textbf{\bibinfo{volume}{4}},
   \bibinfo{pages}{014003} (\bibinfo{year}{2016}).
+
+\bibitem[{\citenamefont{Li et~al.}(2012)\citenamefont{Li, Zhang, Yap, Tay,
+  Edwin, Olivier, and Baillargeat}}]{li2012bulk}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{Q.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{C.~C.~R.} \bibnamefont{Yap}},
+  \bibinfo{author}{\bibfnamefont{B.~K.} \bibnamefont{Tay}},
+  \bibinfo{author}{\bibfnamefont{T.~H.~T.} \bibnamefont{Edwin}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Olivier}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Baillargeat}},
+  \bibinfo{journal}{Advanced Functional Materials}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{1385} (\bibinfo{year}{2012}).
+
+\bibitem[{\citenamefont{Choudhary et~al.}(2016)\citenamefont{Choudhary, Islam,
+  Kang, Tetard, Jung, and Khondaker}}]{choudhary2016two}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Choudhary}},
+  \bibinfo{author}{\bibfnamefont{M.~R.} \bibnamefont{Islam}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Kang}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Tetard}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Jung}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~I.} \bibnamefont{Khondaker}},
+  \bibinfo{journal}{Journal of Physics: Condensed Matter}
+  \textbf{\bibinfo{volume}{28}}, \bibinfo{pages}{364002}
+  (\bibinfo{year}{2016}).
 
 \bibitem[{\citenamefont{Wi et~al.}(2014)\citenamefont{Wi, Kim, Chen, Nam, Guo,
   Meyhofer, and Liang}}]{wi2014enhancement}
